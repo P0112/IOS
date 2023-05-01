@@ -1,5 +1,5 @@
 #!name=YoutubeAd
-#!desc=去除 Youtube 广告 (IOS >= 15)
+#!desc=去广告.后台播放(IOS>=15)
 
 # > Feature
 # 删除 瀑布流、视频、搜索中出现的广告和Shorts
