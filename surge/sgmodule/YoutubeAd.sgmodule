@@ -12,4 +12,4 @@ youtube = type=http-response,script-path= https://raw.githubusercontent.com/Maas
 
 
 [MITM]
-hostname = %APPEND% *.googlevideo.com, youtubei.googleapis.com
+hostname = %APPEND% *.googlevideo.com, youtubei.googleapis.co
