@@ -1,5 +1,5 @@
 #!name=Google Rewrite
-#!desc=Safari 谷歌搜索重定向（Surge）
+#!desc=Safari
 #!system=ios
 
 [URL Rewrite]
