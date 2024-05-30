@@ -1,6 +1,9 @@
 #百度
 DOMAIN-KEYWORD,baidu,DIRECTG
 
+#weather
+DOMAIN-KEYWORD,weather
+
 #腾讯
 DOMAIN-KEYWORD,qq
 DOMAIN-KEYWORD,weixin
