@@ -7,9 +7,6 @@ DOMAIN-SUFFIX,wikipedia.org
 #subStore
 DOMAIN-KEYWORD,sub-store
 
-#weather
-DOMAIN-KEYWORD,weather
-
 #chatgpt
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,bing.com
