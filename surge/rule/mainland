@@ -1,16 +1,16 @@
-#百度
+#baidu
 DOMAIN-SUFFIX,baidu.com
 
 #weather
 DOMAIN-KEYWORD,weather
 
-#腾讯
+#tencent
 DOMAIN-KEYWORD,qq
 DOMAIN-KEYWORD,weixin
 DOMAIN-KEYWORD,tengxun
 DOMAIN-KEYWORD,tencent
 
-#阿里
+#ali
 DOMAIN-KEYWORD,ali
 DOMAIN-KEYWORD,mayi
 DOMAIN-KEYWORD,taobao
@@ -24,7 +24,7 @@ DOMAIN-KEYWORD,dingding
 DOMAIN-KEYWORD,antgroup
 DOMAIN-KEYWORD,alibaba
 
-#常规
+#common
 DOMAIN-SUFFIX,ip-api.com
 DOMAIN-SUFFIX,ipip.net
 DOMAIN-SUFFIX,ip138.com
