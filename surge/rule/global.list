@@ -16,6 +16,11 @@ DOMAIN-SUFFIX,google.com
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,www.google.
 
+#gmail
+DOMAIN,imap.gmail.com
+DOMAIN,pop.gmail.com
+DOMAIN,smtp.gmail.com
+
 #spotify
 USER-AGENT,Spotify*
 DOMAIN-SUFFIX,pscdn.co
