@@ -47,6 +47,7 @@ DOMAIN-SUFFIX,2020kc.xrptpqr.com:8080
 DOMAIN-SUFFIX,2021kc.xrptpqr.com:8080
 DOMAIN-SUFFIX,osiall.top
 DOMAIN-SUFFIX,aua.uiauq.top
+DOMAIN-SUFFIX,sggu.cn
 # (D)
 # > Douban
 AND,((USER-AGENT,Frodo*), (DOMAIN,119.29.29.29))
