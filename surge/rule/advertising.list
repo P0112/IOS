@@ -44,6 +44,7 @@ DOMAIN,pangolin.snssdk.com
 # > BiQuGe
 DOMAIN-SUFFIX,adbu.cn
 DOMAIN-SUFFIX,xrptpqr.com
+DOMAIN-SUFFIX,osiall.top
 # (D)
 # > Douban
 AND,((USER-AGENT,Frodo*), (DOMAIN,119.29.29.29))
