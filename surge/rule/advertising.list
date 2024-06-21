@@ -49,6 +49,7 @@ DOMAIN-SUFFIX,osiall.top
 DOMAIN-SUFFIX,aua.uiauq.top
 DOMAIN-SUFFIX,sggu.cn
 DOMAIN-SUFFIX,xrptpqr.com:8080
+DOMAIN-SUFFIX,puwkcqp.icu
 # (D)
 # > Douban
 AND,((USER-AGENT,Frodo*), (DOMAIN,119.29.29.29))
