@@ -51,6 +51,7 @@ DOMAIN-SUFFIX,sggu.cn
 DOMAIN-SUFFIX,xrptpqr.com:8008
 DOMAIN-SUFFIX,xrptpqr.com:8080
 DOMAIN-SUFFIX,puwkcqp.icu
+DOMAIN-SUFFIX,scru.cn
 # (D)
 # > Douban
 AND,((USER-AGENT,Frodo*), (DOMAIN,119.29.29.29))
