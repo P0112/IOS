@@ -53,7 +53,8 @@ DOMAIN-SUFFIX,xrptpqr.com:8080
 DOMAIN-SUFFIX,puwkcqp.icu
 DOMAIN-SUFFIX,scru.cn
 DOMAIN-SUFFIX,saeo.cn
-DOMAIN-SUFFIX,birtw.cn
+DOMAIN-SUFFIX,afopr.cn
+
 # (D)
 # > Douban
 AND,((USER-AGENT,Frodo*), (DOMAIN,119.29.29.29))
