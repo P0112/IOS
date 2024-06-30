@@ -58,7 +58,7 @@ DOMAIN-SUFFIX,aiknx.cn
 DOMAIN-SUFFIX,efhis.cn
 DOMAIN-SUFFIX,gklox.cn
 DOMAIN-SUFFIX,adhvz.cn
-
+DOMAIN-SUFFIX,aclsx.cn
 # (D)
 # > Douban
 AND,((USER-AGENT,Frodo*), (DOMAIN,119.29.29.29))
