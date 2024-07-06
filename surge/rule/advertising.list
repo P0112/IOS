@@ -65,6 +65,7 @@ DOMAIN-SUFFIX,cmqxy.cn
 DOMAIN-SUFFIX,hy90.cn
 DOMAIN-SUFFIX,97ii.cn
 DOMAIN-SUFFIX,iptuy.cn
+DOMAIN-SUFFIX,kmruv.cn
 # (D)
 # > Douban
 AND,((USER-AGENT,Frodo*), (DOMAIN,119.29.29.29))
