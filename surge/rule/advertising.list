@@ -41,31 +41,6 @@ DOMAIN,ad.toutiao.com
 DOMAIN,dsp.toutiao.com
 DOMAIN,pangolin.snssdk.com
 
-# > BiQuGe
-DOMAIN-SUFFIX,adbu.cn
-DOMAIN-SUFFIX,2020kc.xrptpqr.com:8080
-DOMAIN-SUFFIX,2021kc.xrptpqr.com:8080
-DOMAIN-SUFFIX,osiall.top
-DOMAIN-SUFFIX,aua.uiauq.top
-DOMAIN-SUFFIX,sggu.cn
-DOMAIN-SUFFIX,xrptpqr.com:8008
-DOMAIN-SUFFIX,xrptpqr.com:8080
-DOMAIN-SUFFIX,puwkcqp.icu
-DOMAIN-SUFFIX,scru.cn
-DOMAIN-SUFFIX,saeo.cn
-DOMAIN-SUFFIX,afopr.cn
-DOMAIN-SUFFIX,aiknx.cn
-DOMAIN-SUFFIX,efhis.cn
-DOMAIN-SUFFIX,gklox.cn
-DOMAIN-SUFFIX,adhvz.cn
-DOMAIN-SUFFIX,aclsx.cn
-DOMAIN-SUFFIX,ajoqu.cn
-DOMAIN-SUFFIX,bijmz.cn
-DOMAIN-SUFFIX,cmqxy.cn
-DOMAIN-SUFFIX,hy90.cn
-DOMAIN-SUFFIX,97ii.cn
-DOMAIN-SUFFIX,iptuy.cn
-DOMAIN-SUFFIX,kmruv.cn
 # (D)
 # > Douban
 AND,((USER-AGENT,Frodo*), (DOMAIN,119.29.29.29))
