@@ -1,6 +1,8 @@
 #!name = Ali-DoH
 #!desc = DNS-over-HTTPS
-
+[Rule]
+DOMAIN-SUFFIX,googlevideo.com,Proxy
+DOMAIN-SUFFIX,youtubei.googleapis.com,Proxy
 [General]
 dns-server = 223.5.5.5，119.29.29.29
 encrypted-dns-server = https://dns.alidns.com/dns-query
