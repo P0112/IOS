@@ -4,6 +4,3 @@
 [General]
 dns-server = 223.5.5.5，119.29.29.29
 encrypted-dns-server = https://dns.alidns.com/dns-query
-fallback-dns-server = https://dns.cloudflare.com/dns-query
-dns-cache-ttl = 300
-dns-fallback-filter = geosite:cn
