@@ -4,6 +4,3 @@
 [General]
 dns-server = 223.5.5.5，119.29.29.29
 encrypted-dns-server = https://dns.alidns.com/dns-query
-[Host]
-*.googlevideo.com = 8.8.8.8
-*.youtubei.googleapis.com = 8.8.8.8
