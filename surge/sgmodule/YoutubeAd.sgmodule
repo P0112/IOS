@@ -1,4 +1,5 @@
-#!name=YoutubeAD (Music) Enhance
+#!name=YoutubeAD
+#!desc = AD & Lock_Play
 [Rule]
 AND,((DOMAIN-SUFFIX,googlevideo.com), (PROTOCOL,UDP)),REJECT
 AND,((DOMAIN,youtubei.googleapis.com), (PROTOCOL,UDP)),REJECT
