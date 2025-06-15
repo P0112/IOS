@@ -1,6 +1,7 @@
 #chatgpt
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,bing.com
+
 #desney+
 DOMAIN-SUFFIX,disney-plus.net
 DOMAIN-SUFFIX,disneyplus.com
@@ -139,6 +140,20 @@ DOMAIN-SUFFIX,ytimg.com
 DOMAIN,imap.gmail.com
 DOMAIN,pop.gmail.com
 DOMAIN,smtp.gmail.com
+
+#Netflix
+USER-AGENT,Argo*
+DOMAIN-SUFFIX,netflix.com
+DOMAIN-SUFFIX,netflix.net
+DOMAIN-SUFFIX,nflxext.com
+DOMAIN-SUFFIX,nflximg.com
+DOMAIN-SUFFIX,nflximg.net
+DOMAIN-SUFFIX,nflxso.net
+DOMAIN-SUFFIX,nflxvideo.net
+DOMAIN-KEYWORD,netflixdnstest
+DOMAIN-KEYWORD,apiproxy-device-prod-nlb-
+DOMAIN-KEYWORD,dualstack.apiproxy-
+# GEOIP,NETFLIX,no-resolve
 
 #spotify
 USER-AGENT,Spotify*
