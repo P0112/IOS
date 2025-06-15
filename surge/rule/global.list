@@ -153,7 +153,6 @@ DOMAIN-SUFFIX,nflxvideo.net
 DOMAIN-KEYWORD,netflixdnstest
 DOMAIN-KEYWORD,apiproxy-device-prod-nlb-
 DOMAIN-KEYWORD,dualstack.apiproxy-
-# GEOIP,NETFLIX,no-resolve
 
 #spotify
 USER-AGENT,Spotify*
