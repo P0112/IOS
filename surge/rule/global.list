@@ -114,6 +114,19 @@ PROCESS-NAME,org.telegram.messenger
 PROCESS-NAME,telegram-desktop
 OR,((IP-ASN,44907,no-resolve),(IP-ASN,59930,no-resolve),(IP-ASN,62014,no-resolve),(IP-ASN,62041,no-resolve),(IP-ASN,211157,no-resolve))
 
+#WebRtc
+DOMAIN-SUFFIX,webrtc.com
+
+#whatsapp
+DOMAIN-SUFFIX,whatsapp.com
+DOMAIN-SUFFIX,whatsapp.net
+DOMAIN-SUFFIX,whatsapp.biz
+DOMAIN,graph.facebook.com
+DOMAIN-SUFFIX,bintray.com
+
+#wikipedia
+DOMAIN-SUFFIX,wikipedia.org
+
 #youtube
 USER-AGENT,com.google.ios.youtube*
 USER-AGENT,YouTube*
@@ -129,9 +142,4 @@ DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN,youtubei.googleapis.com
 DOMAIN,yt3.ggpht.com
-
-#WebRtc
-DOMAIN-SUFFIX,webrtc.com
-
-#wikipedia
-DOMAIN-SUFFIX,wikipedia.org
+PROCESS-NAME,YT Music
