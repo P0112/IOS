@@ -155,13 +155,13 @@ DOMAIN-KEYWORD,apiproxy-device-prod-nlb-
 DOMAIN-KEYWORD,dualstack.apiproxy-
 
 #spotify
-USER-AGENT,Spotify*
-DOMAIN-SUFFIX,pscdn.co
-DOMAIN-SUFFIX,scdn.co
-DOMAIN-SUFFIX,spotify.com
-DOMAIN-SUFFIX,spoti.fi
-DOMAIN-KEYWORD,spotify.com
-DOMAIN-KEYWORD,-spotify-com
+#USER-AGENT,Spotify*
+#DOMAIN-SUFFIX,pscdn.co
+#DOMAIN-SUFFIX,scdn.co
+#DOMAIN-SUFFIX,spotify.com
+#DOMAIN-SUFFIX,spoti.fi
+#DOMAIN-KEYWORD,spotify.com
+#DOMAIN-KEYWORD,-spotify-com
 
 #subStore
 DOMAIN-KEYWORD,sub-store
