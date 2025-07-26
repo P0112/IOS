@@ -1,5 +1,5 @@
 #!name=SpotifAD
-!desc= AD
+#!desc= AD
 [Header Rewrite]
 # if-none-match返回304状态码
 http-request ^https:\/\/(spclient\.wg\.spotify\.com|.*-spclient\.spotify\.com(:443)?)\/user-customization-service\/v1\/customize$ header-del if-none-match
